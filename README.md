@@ -1,3 +1,3 @@
 # E-Kart
 ## Screenshot
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fvarijanta%2Fvarijanta1605%2Fvarijanta160500049%2F56755970-thin-line-flat-design-banner-for-under-construction-web-page-website-development-process-coming-soon.jpg&tbnid=MMuBqjMqbnDtOM&vet=12ahUKEwiGgMOsl4mCAxVcXmwGHexrDb8QMygVegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_56755970_thin-line-flat-design-banner-for-under-construction-web-page-website-development-process-coming-soon.html&docid=oETUwbRLyVUImM&w=1300&h=780&q=under%20construction%20website%20%0D%0Aimages&ved=2ahUKEwiGgMOsl4mCAxVcXmwGHexrDb8QMygVegUIARCXAQ" img>
+<img src="https://github.com/shivanshsrii/E-Kart/blob/master/img/underconstruction.jpg" img>
